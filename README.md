@@ -15,7 +15,7 @@ Download and install raylib
 ## Clone the repository:
 
 ```ruby
-git clone https://github.com/<username>/simple-game-project.git
+git clone https://github.com/DesignToWebsite/The-Dapper-Dasher.git
 ```
 
 ## Build the project:
